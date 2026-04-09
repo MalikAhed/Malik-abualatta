@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T18:49:12.037Z",
+  "updatedAt": "2026-04-09T18:50:26.529Z",
   "subjects": {
     "Math": {
       "units": [
@@ -76,7 +76,26 @@
       "units": []
     },
     "Islamic": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnru0kzl_ae8j",
+          "name": "1 islamic",
+          "lessons": [
+            {
+              "id": "l_mnru0rwe_0ej9",
+              "name": "1 lessons",
+              "cards": [
+                {
+                  "id": "c_mnru0ybg_akth",
+                  "front": "try",
+                  "back": "niceeee",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "publishedBy": "Malik"
