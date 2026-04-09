@@ -1,18 +1,102 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T19:17:49.140Z",
+  "updatedAt": "2026-04-09T19:21:26.895Z",
   "subjects": {
     "Math": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrv3u9h_wcci",
+          "name": "sets",
+          "nameAr": "sets",
+          "lessons": [
+            {
+              "id": "l_mnrv3x84_7mrl",
+              "name": "setss",
+              "nameAr": "setss",
+              "cards": [
+                {
+                  "id": "c_mnrv40wx_fj27",
+                  "front": "setst",
+                  "back": "stet",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "Physics": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrv3f5r_mcj0",
+          "name": "teset",
+          "nameAr": "tess",
+          "lessons": [
+            {
+              "id": "l_mnrv3jnz_28r2",
+              "name": "tset",
+              "nameAr": "tesset",
+              "cards": [
+                {
+                  "id": "c_mnrv3obc_twiy",
+                  "front": "tse",
+                  "back": "tse",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "Chemistry": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrv2s4g_29nm",
+          "name": "test",
+          "nameAr": "test",
+          "lessons": [
+            {
+              "id": "l_mnrv2vjo_aji8",
+              "name": "tes",
+              "nameAr": "tes",
+              "cards": [
+                {
+                  "id": "c_mnrv34kl_ace1",
+                  "front": "test",
+                  "back": "test",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "Biology": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrv2cx2_147t",
+          "name": "test",
+          "nameAr": "test",
+          "lessons": [
+            {
+              "id": "l_mnrv2gid_cuby",
+              "name": "test",
+              "nameAr": "test",
+              "cards": [
+                {
+                  "id": "c_mnrv2kuq_99ko",
+                  "front": "test",
+                  "back": "test",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "Technology": {
       "units": [
@@ -45,7 +129,28 @@
       ]
     },
     "English": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrv1tu9_7jn0",
+          "name": "test",
+          "nameAr": "test",
+          "lessons": [
+            {
+              "id": "l_mnrv1x20_ui8r",
+              "name": "test",
+              "nameAr": "test",
+              "cards": [
+                {
+                  "id": "c_mnrv22pd_9m9z",
+                  "front": "test",
+                  "back": "teset",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "Arabic": {
       "units": [
@@ -58,7 +163,28 @@
       ]
     },
     "Islamic": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrv186x_d44p",
+          "name": "test",
+          "nameAr": "test",
+          "lessons": [
+            {
+              "id": "l_mnrv1dvg_ewdv",
+              "name": "test",
+              "nameAr": "test",
+              "cards": [
+                {
+                  "id": "c_mnrv1iuj_tqkc",
+                  "front": "test",
+                  "back": "good",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "publishedBy": "Malik"
