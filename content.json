@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T18:30:33.928Z",
+  "updatedAt": "2026-04-09T18:42:32.440Z",
   "subjects": {
     "Math": {
       "units": [
@@ -42,7 +42,14 @@
       ]
     },
     "Chemistry": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrtqd2h_iheb",
+          "name": "unit 1 test",
+          "nameAr": "arabic unit 1 test",
+          "lessons": []
+        }
+      ]
     },
     "Biology": {
       "units": []
