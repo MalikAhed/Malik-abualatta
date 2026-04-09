@@ -1,0 +1,15 @@
+{
+     "version": 2,
+     "updatedAt": null,
+     "publishedBy": "Malik",
+     "subjects": {
+       "Math": { "units": [] },
+       "Physics": { "units": [] },
+       "Chemistry": { "units": [] },
+       "Biology": { "units": [] },
+       "Technology": { "units": [] },
+       "English": { "units": [] },
+       "Arabic": { "units": [] },
+       "Islamic": { "units": [] }
+     }
+   }
