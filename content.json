@@ -1,15 +1,52 @@
 {
-     "version": 2,
-     "updatedAt": null,
-     "publishedBy": "Malik",
-     "subjects": {
-       "Math": { "units": [] },
-       "Physics": { "units": [] },
-       "Chemistry": { "units": [] },
-       "Biology": { "units": [] },
-       "Technology": { "units": [] },
-       "English": { "units": [] },
-       "Arabic": { "units": [] },
-       "Islamic": { "units": [] }
-     }
-   }
+  "version": 2,
+  "updatedAt": "2026-04-09T17:43:29.625Z",
+  "subjects": {
+    "Math": {
+      "units": [
+        {
+          "id": "u_mnrrlz5i_rhb4",
+          "name": "test english",
+          "nameAr": "test arabic",
+          "lessons": [
+            {
+              "id": "l_mnrrmikq_axxw",
+              "name": "lesson test engish",
+              "nameAr": "lesson test arabic",
+              "cards": [
+                {
+                  "id": "c_mnrrmuva_0rnj",
+                  "front": "teest",
+                  "back": "lets gooooo",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Physics": {
+      "units": []
+    },
+    "Chemistry": {
+      "units": []
+    },
+    "Biology": {
+      "units": []
+    },
+    "Technology": {
+      "units": []
+    },
+    "English": {
+      "units": []
+    },
+    "Arabic": {
+      "units": []
+    },
+    "Islamic": {
+      "units": []
+    }
+  },
+  "publishedBy": "Malik"
+}
