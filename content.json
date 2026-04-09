@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T19:11:43.796Z",
+  "updatedAt": "2026-04-09T19:15:39.459Z",
   "subjects": {
     "Math": {
       "units": []
@@ -15,7 +15,28 @@
       "units": []
     },
     "Technology": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnruwyv3_7h11",
+          "name": "tecno test 1",
+          "nameAr": "tecno test 1",
+          "lessons": [
+            {
+              "id": "l_mnrux5wn_fsw3",
+              "name": "lesson 1 test",
+              "nameAr": "lesson 1 test",
+              "cards": [
+                {
+                  "id": "c_mnruxexc_4mlx",
+                  "front": "what is ict bro",
+                  "back": "niceeeee",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "English": {
       "units": []
