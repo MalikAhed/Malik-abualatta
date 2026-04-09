@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T18:57:35.908Z",
+  "updatedAt": "2026-04-09T19:11:43.796Z",
   "subjects": {
     "Math": {
       "units": []
@@ -21,7 +21,14 @@
       "units": []
     },
     "Arabic": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrusbq9_5scz",
+          "name": "arabic",
+          "nameAr": "الوحدة الاولى",
+          "lessons": []
+        }
+      ]
     },
     "Islamic": {
       "units": []
