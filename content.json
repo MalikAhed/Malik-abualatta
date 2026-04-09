@@ -1,30 +1,9 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T20:23:57.174Z",
+  "updatedAt": "2026-04-09T20:40:55.081Z",
   "subjects": {
     "Math": {
-      "units": [
-        {
-          "id": "u_mnrxbyei_y5vp",
-          "name": "first lesson deployyyyyy",
-          "nameAr": "first lesson deployyyyyy",
-          "lessons": [
-            {
-              "id": "l_mnrxcnch_gemb",
-              "name": "lesson 1",
-              "nameAr": "lesson 1",
-              "cards": [
-                {
-                  "id": "c_mnrxd0zk_vmjn",
-                  "front": "card 1?",
-                  "back": "lets goooooo",
-                  "lang": "en"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "units": []
     },
     "Physics": {
       "units": []
