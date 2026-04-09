@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T18:29:13.221Z",
+  "updatedAt": "2026-04-09T18:30:33.928Z",
   "subjects": {
     "Math": {
       "units": [
@@ -23,6 +23,11 @@
               ]
             }
           ]
+        },
+        {
+          "id": "u_mnrtauyc_xzvi",
+          "name": "test 2",
+          "lessons": []
         }
       ]
     },
