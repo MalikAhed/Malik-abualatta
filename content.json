@@ -1,67 +1,15 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T18:55:11.891Z",
+  "updatedAt": "2026-04-09T18:56:17.083Z",
   "subjects": {
     "Math": {
-      "units": [
-        {
-          "id": "u_mnrrlz5i_rhb4",
-          "name": "test english",
-          "nameAr": "test arabic",
-          "lessons": [
-            {
-              "id": "l_mnrrmikq_axxw",
-              "name": "lesson test engish",
-              "nameAr": "lesson test arabic",
-              "cards": [
-                {
-                  "id": "c_mnrrmuva_0rnj",
-                  "front": "teest",
-                  "back": "lets gooooo",
-                  "lang": "en"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "u_mnrtauyc_xzvi",
-          "name": "test 2",
-          "lessons": []
-        }
-      ]
+      "units": []
     },
     "Physics": {
-      "units": [
-        {
-          "id": "u_mnrt9dn6_hi1o",
-          "name": "unit 1",
-          "nameAr": "الوحدة 1",
-          "lessons": []
-        }
-      ]
+      "units": []
     },
     "Chemistry": {
-      "units": [
-        {
-          "id": "u_mnrtxcbb_jgrl",
-          "name": "chemestry test 1",
-          "lessons": [
-            {
-              "id": "l_mnrtxnhv_geyd",
-              "name": "chemester lesson 1 test",
-              "cards": [
-                {
-                  "id": "c_mnrtyc26_9v83",
-                  "front": "test 1",
-                  "back": "niceeeeee",
-                  "lang": "en"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "units": []
     },
     "Biology": {
       "units": []
