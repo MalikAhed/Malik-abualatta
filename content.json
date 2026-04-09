@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T18:42:32.440Z",
+  "updatedAt": "2026-04-09T18:47:53.907Z",
   "subjects": {
     "Math": {
       "units": [
@@ -44,10 +44,15 @@
     "Chemistry": {
       "units": [
         {
-          "id": "u_mnrtqd2h_iheb",
-          "name": "unit 1 test",
-          "nameAr": "arabic unit 1 test",
-          "lessons": []
+          "id": "u_mnrtxcbb_jgrl",
+          "name": "chemestry test 1",
+          "lessons": [
+            {
+              "id": "l_mnrtxnhv_geyd",
+              "name": "chemester lesson 1 test",
+              "cards": []
+            }
+          ]
         }
       ]
     },
