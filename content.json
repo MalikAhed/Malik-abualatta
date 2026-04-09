@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T20:42:28.481Z",
+  "updatedAt": "2026-04-09T20:43:24.187Z",
   "subjects": {
     "Math": {
       "units": []
@@ -24,7 +24,27 @@
       "units": []
     },
     "Islamic": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnry1ljm_fm7t",
+          "name": "الوحدة الولى",
+          "nameAr": "الوحدة الولى",
+          "lessons": [
+            {
+              "id": "l_mnry1t6d_tmv0",
+              "name": "الدرس الاول",
+              "cards": [
+                {
+                  "id": "c_mnry28yu_c0wg",
+                  "front": "القران الكريم؟",
+                  "back": "هو كتاب الله",
+                  "lang": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "publishedBy": "Malik"
