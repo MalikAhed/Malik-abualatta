@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-09T17:43:29.625Z",
+  "updatedAt": "2026-04-09T18:29:13.221Z",
   "subjects": {
     "Math": {
       "units": [
@@ -27,7 +27,14 @@
       ]
     },
     "Physics": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnrt9dn6_hi1o",
+          "name": "unit 1",
+          "nameAr": "الوحدة 1",
+          "lessons": []
+        }
+      ]
     },
     "Chemistry": {
       "units": []
