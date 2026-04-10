@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-10T05:37:27.723Z",
+  "updatedAt": "2026-04-10T06:56:00.306Z",
   "subjects": {
     "Math": {
       "units": [
@@ -354,7 +354,813 @@
       "units": []
     },
     "Biology": {
-      "units": []
+      "units": [
+        {
+          "id": "u_mnsjxy9u_jcz9",
+          "name": "الوحدة الأولى: عمليات حيوية في الخلية — الفصل الأول: تدفق الطاقة",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "l_mnsjxy9u_3rmo",
+              "name": "حاملات الطاقة (ATP)",
+              "order": 1,
+              "cards": [
+                {
+                  "id": "c_mnsjxy9u_j58d",
+                  "front": "مم تتكون جزيئات حاملات الطاقة في الخلية الحية؟",
+                  "back": "من النيوكليوتيدات التي تحتوي روابط كيميائية تخزّن كميات كبيرة من الطاقة، مثل مركب ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_urk7",
+                  "front": "ما مقدار الطاقة الناتجة من تحلل مجموعة فوسفات واحدة من ATP؟",
+                  "back": "‎7.3 كيلو كالوري/مول، إذ يتحوّل ATP إلى ADP + Pi.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_dn6t",
+                  "front": "ما المجموع الكلي للطاقة الناتجة من تحلل جزيء ATP إلى AMP؟",
+                  "back": "‎14.6 كيلو كالوري/مول (7.3 × 2)، لأن الجزيء يفقد مجموعتَي فوسفات متتاليتين.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_kmyq",
+                  "front": "أيّ المركبات العضوية يحتوي على أكبر كمية من الطاقة لكل غرام؟",
+                  "back": "اللبيدات (الدهون): ‎3 غم لبيدات تحوي طاقة أكبر من ‎6 غم كربوهيدرات أو ‎7 غم بروتينات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                }
+              ]
+            },
+            {
+              "id": "l_mnsjxy9u_09xi",
+              "name": "البناء الضوئي",
+              "order": 2,
+              "cards": [
+                {
+                  "id": "c_mnsjxy9u_ifka",
+                  "front": "عرّف عملية البناء الضوئي.",
+                  "back": "عملية تقوم بها النباتات والطحالب وبعض البكتيريا، تُحوَّل فيها الطاقة الشمسية إلى طاقة كيميائية مخزّنة في السكر وغيره من الجزيئات العضوية.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_br50",
+                  "front": "اكتب معادلة ماير (المعادلة الكلية للبناء الضوئي).",
+                  "back": "‎6CO₂ + 12H₂O ⟶ (طاقة ضوئية، كلوروفيل) ⟶ C₆H₁₂O₆ + 6O₂ + 6H₂O.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_o74v",
+                  "front": "ما مصدر الزيادة في كتلة النبات؟",
+                  "back": "ثاني أكسيد الكربون (CO₂) الذي يتحوّل إلى سكر الغلوكوز في عملية البناء الضوئي.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_93mf",
+                  "front": "ما مصدر الأكسجين المتصاعد من عملية البناء الضوئي؟",
+                  "back": "الماء الذي تحلّله طاقة الشمس أثناء التفاعلات الضوئية في النظام الضوئي الثاني.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_m4x8",
+                  "front": "أين تحدث تفاعلات البناء الضوئي داخل البلاستيدة؟",
+                  "back": "التفاعلات الضوئية في أغشية الثايلاكويد، والتفاعلات اللاضوئية (حلقة كالفن) في الستروما.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_mt9p",
+                  "front": "علّل: تُعد الأوراق المكان الرئيس لحدوث البناء الضوئي.",
+                  "back": "لأنها تحتوي الكمية الأكبر من البلاستيدات الخضراء التي تحدث فيها التفاعلات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_3tgt",
+                  "front": "أين توجد صبغة الكلوروفيل وما أهميتها؟",
+                  "back": "توجد في أغشية الثايلاكويد، وتمتص الطاقة الضوئية وتحوّلها إلى طاقة كيميائية، وهي التي تكسب النبات لونه الأخضر.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_3hkc",
+                  "front": "علّل: يظهر اللون الأخضر في النباتات.",
+                  "back": "لأن صبغة الكلوروفيل تعكس الموجات الخضراء ولا تمتصها، بينما تمتص باقي موجات الضوء المرئي.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_qz2r",
+                  "front": "أيّ الموجات الضوئية يتم امتصاصها بكفاءة عالية في البناء الضوئي؟",
+                  "back": "الحمراء والزرقاء؛ إذ يبلغ البناء الضوئي أعلى معدلاته عند امتصاصهما.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_mbxb",
+                  "front": "اشرح تكوين النظام الضوئي.",
+                  "back": "يتكوّن من: (١) مركز تفاعل يحوي جزيئَين من كلوروفيل a ومستقبل إلكترونات أولي، (٢) أصباغ مختلفة (كلوروفيل a وb والكاروتين) مرتبطة ببروتينات تعمل كلاقطات للضوء تمرّر الطاقة إلى مركز التفاعل.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_azoq",
+                  "front": "ما وظيفة مركز التفاعل في النظام الضوئي؟",
+                  "back": "إطلاق إلكترونات منشَّطة إلى المستقبل الإلكتروني الأولي بعد تحويل الطاقة الضوئية إلى طاقة كيميائية.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_2coj",
+                  "front": "قارن بين PSI و PSII من حيث طول الموجة الممتصة.",
+                  "back": "PSI يمتص الضوء بأعلى كفاءة عند طول موجة ‎700 نانومتر، وPSII عند ‎680 نانومتر.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_td0c",
+                  "front": "ما المساران اللذان تتحوّل فيهما الطاقة الضوئية إلى طاقة كيميائية؟",
+                  "back": "المسار الإلكتروني اللاحلقي والمسار الإلكتروني الحلقي.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_ho4x",
+                  "front": "علّل: يبدأ المسار اللاحلقي من النظام الضوئي الثاني وليس الأول.",
+                  "back": "لأن PSII ينشط عند ‎680 نانومتر قبل PSI (‎700 نانومتر)، ولأن إنزيم شطر الماء موجود في PSII؛ أما تسمية PSI فنبعت من كونه اكتُشف أولاً لا أنه يعمل أولاً.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_7mnz",
+                  "front": "صف آلية شطر جزيئات الماء وانطلاق الأكسجين.",
+                  "back": "نتيجة استمرار امتصاص الضوء في PSII، يعمل إنزيم خاص على شطر الماء وفق المعادلة: H₂O → 2H⁺ + ½O₂ + 2e⁻؛ فتزوَّد مراكز التفاعل بالإلكترونات وترتبط ذرات الأكسجين مكوّنةً O₂ تنطلق إلى الجو كناتج نهائي.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_kyfa",
+                  "front": "صف عملية تكوين ATP في البناء الضوئي.",
+                  "back": "تنتقل الإلكترونات المنشَّطة من المستقبل الأولي في PSII عبر سلسلة نواقل بروتينية (السايتوكرومات)، ويتم من خلالها بناء جزيئات ATP باستخدام طاقة الإلكترونات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_xpd3",
+                  "front": "صف عملية اختزال NADP⁺ إلى NADPH.",
+                  "back": "بعد وصول الإلكترونات إلى مركز تفاعل PSI يُعاد تنشيطها، ثم تنتقل عبر نواقل إلى إنزيم مختزل NADP⁺ حسب المعادلة: NADP⁺ + 2H⁺ + 2e⁻ → NADPH + H⁺.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_vhy0",
+                  "front": "ما مصدر الإلكترونات لتعويض PSII؟ وما مصدرها لتعويض PSI؟",
+                  "back": "PSII يُعوَّض من شطر الماء، أما PSI فيُعوَّض من الإلكترونات القادمة من PSII عبر سلسلة نقل الإلكترون.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_a2mr",
+                  "front": "ما المستقبل النهائي للإلكترونات في المسار اللاحلقي؟",
+                  "back": "إنزيم مختزل NADP⁺ (أي NADP⁺ الذي يُختزل إلى NADPH).",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_bdwf",
+                  "front": "ما نواتج المسار اللاحلقي؟",
+                  "back": "ATP و NADPH و O₂.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_d0t7",
+                  "front": "ما أهمية السايتوكرومات الموجودة بين النظامَين الضوئيَّين؟",
+                  "back": "لها دور مهم في بناء جزيئات ATP باستخدام طاقة الإلكترونات أثناء مرورها خلال سلسلة نقل الإلكترون.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_a31w",
+                  "front": "علّل: يُعد NADPH عامل اختزال قوي.",
+                  "back": "لأنه يضيف إلكترونات عالية الطاقة وأيونات هيدروجين لصنع جزيئات السكر في حلقة كالفن.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_9r2r",
+                  "front": "اشرح تفاعلات المسار الإلكتروني الحلقي.",
+                  "back": "تصل الإلكترونات إلى مركز تفاعل PSI بعد أن استنفدت طاقتها، يُعاد تنشيطها بامتصاص الضوء، ثم تنتقل إلى المستقبل الأولي فسلسلة نقل الإلكترون وتعود إلى PSI، مُنتجةً ATP فقط.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_bfm8",
+                  "front": "ما أهمية المسار الإلكتروني الحلقي؟",
+                  "back": "إنتاج كمية إضافية من ATP فقط، ليصبح عدد ATP الناتج في التفاعلات الضوئية أكبر من عدد NADPH، تلبيةً لحاجة حلقة كالفن.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_3sgh",
+                  "front": "قارن بين المسار الحلقي واللاحلقي.",
+                  "back": "اللاحلقي: يشارك فيه PSI و PSII، التعويض من الماء، ينتج ATP + NADPH + O₂، والمستقبل النهائي NADP⁺. الحلقي: يشارك فيه PSI فقط، التعويض ذاتي، ينتج ATP فقط، ولا O₂ ولا NADPH.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_jjyu",
+                  "front": "قارن بين التفاعلات الضوئية واللاضوئية من حيث المواد اللازمة والنواتج ومكان الحدوث.",
+                  "back": "الضوئية: تحتاج H₂O وضوءاً وNADP⁺ وADP، وتنتج O₂ وATP وNADPH، وتحدث في غشاء الثايلاكويد. اللاضوئية: تحتاج CO₂ وATP وNADPH، وتنتج G3P وADP وNADP⁺، وتحدث في الستروما ولا تحتاج الضوء مباشرةً.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_x63f",
+                  "front": "علّل: تُسمّى التفاعلات اللاضوئية بحلقة كالفن.",
+                  "back": "نسبةً إلى مكتشفها العالِم كالفن.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_k116",
+                  "front": "علّل: تُعد ستروما البلاستيدة مكاناً مناسباً لحدوث حلقة كالفن.",
+                  "back": "لتوافر الإنزيمات اللازمة فيها، ولاستخدامها نواتج التفاعلات الضوئية ATP و NADPH.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_t6k3",
+                  "front": "ما مراحل حلقة كالفن الثلاث؟",
+                  "back": "(١) تثبيت الكربون، (٢) الاختزال، (٣) إعادة تصنيع رايبولوز ثنائي الفوسفات RuBP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_zuwh",
+                  "front": "اشرح مرحلة تثبيت الكربون في حلقة كالفن.",
+                  "back": "يُثبَّت كل جزيء CO₂ بربطه بمركب خماسي الكربون (RuBP) بواسطة إنزيم روبيسكو، فينتج مركب سداسي الكربون غير ثابت سرعان ما ينشطر تلقائياً إلى جزيئين من حمض غليسرين أحادي الفوسفات (3-PGA).",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_hqsl",
+                  "front": "اشرح مرحلة الاختزال في حلقة كالفن.",
+                  "back": "يحصل كل جزيء 3-PGA على مجموعة فوسفات من ATP فيتكوّن حمض غليسرين ثنائي الفوسفات، ثم يعمل NADPH على اختزاله إلى سكر غليسرألدهايد أحادي الفوسفات (G3P).",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_s29f",
+                  "front": "اشرح مرحلة إعادة تصنيع RuBP في حلقة كالفن.",
+                  "back": "من كل ‎6 جزيئات G3P تُستخدم ‎5 جزيئات (تحوي ‎15 ذرة كربون) لإعادة بناء ‎3 جزيئات RuBP (تحوي ‎15 ذرة كربون) في سلسلة تفاعلات تستهلك ‎3 جزيئات ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_7h9j",
+                  "front": "ما المركب الكربوهيدراتي الأول الثابت الناتج من البناء الضوئي؟",
+                  "back": "سكر غليسرألدهايد أحادي الفوسفات (G3P)، وهو الهيكل الكربوني لجميع المركبات العضوية التي ينتجها النبات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_wt5q",
+                  "front": "علّل: من ‎6 جزيئات G3P في حلقة كالفن يدخل جزيء واحد فقط في إنتاج المركبات العضوية.",
+                  "back": "لأن ‎5 جزيئات تُستخدم لإعادة تصنيع RuBP حتى تستمر الحلقة بالعمل، فيتبقى جزيء واحد فقط يدخل في تصنيع الغلوكوز وغيره.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_1ml3",
+                  "front": "ما المستقبل النهائي للإلكترونات في حلقة كالفن؟",
+                  "back": "حمض غليسرين ثنائي الفوسفات (1,3-BPG)، لأنه المركب الذي يختزله NADPH إلى G3P.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_m58s",
+                  "front": "ما أهمية ATP و NADPH في حلقة كالفن؟",
+                  "back": "ATP مصدر الطاقة اللازمة لتشغيل مراحل الحلقة، وNADPH عامل اختزال قوي يضيف إلكترونات عالية الطاقة وأيونات هيدروجين لصنع السكر.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9u_x0lb",
+                  "front": "ما العوامل التي تؤثر على معدل البناء الضوئي؟",
+                  "back": "شدة الضوء (حتى نقطة التشبع الضوئي)، تركيز CO₂، درجة الحرارة (أقل أو أعلى من المثلى تؤثر سلباً)، وتوافر الماء.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                }
+              ]
+            },
+            {
+              "id": "l_mnsjxy9v_xsfa",
+              "name": "التنفس الخلوي",
+              "order": 3,
+              "cards": [
+                {
+                  "id": "c_mnsjxy9v_smfa",
+                  "front": "عرّف التنفس الخلوي.",
+                  "back": "عملية تقوم بواسطتها الكائنات الحية بتفكيك الروابط في المواد الغذائية (المركبات العضوية) وتحرير الطاقة المخزَّنة بها على شكل ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_3s83",
+                  "front": "اكتب المعادلة الكلية للتنفس الهوائي الخلوي.",
+                  "back": "‎C₆H₁₂O₆ + 6O₂ ⟶ (إنزيمات) ⟶ 6CO₂ + 6H₂O + 38 ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_yuzd",
+                  "front": "قارن بين التنفس الهوائي واللاهوائي والتخمر من حيث المستقبل النهائي للإلكترونات.",
+                  "back": "الهوائي: المستقبل الأخير هو O₂. اللاهوائي: مركبات أخرى من الأكسجين كالسلفات SO₄²⁻ أو النترات NO₃⁻. التخمر: مركب عضوي كالأستيل ألدهايد أو البيروفيت.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_kdu8",
+                  "front": "ما مراحل التنفس الهوائي الخلوي الأربع؟",
+                  "back": "(١) التحلل الغلايكولي، (٢) تحول البيروفيت إلى أستيل مرافق إنزيم أ، (٣) حلقة كربس، (٤) سلسلة نقل الإلكترونات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_6ezt",
+                  "front": "اشرح مرحلة التحلل الغلايكولي.",
+                  "back": "تحدث في سيتوسول جميع الخلايا دون حاجة للأكسجين: يُنشَّط الغلوكوز باستهلاك ‎2 ATP فينشطر إلى جزيئَي غليسرألدهايد ثلاثي الكربون يتأكسدان لينتج في النهاية ‎2 بيروفيت و‎2 NADH و‎4 ATP (إجمالي)، أي صافي ‎2 ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_gh0f",
+                  "front": "علّل: يتم استهلاك ‎2 ATP في بداية مرحلة التحلل الغلايكولي.",
+                  "back": "لتنشيط جزيء الغلوكوز حتى يتمكّن من الانشطار إلى جزيئَين من غليسرألدهايد ثلاثي الكربون وتبدأ سلسلة التفاعلات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_k7kb",
+                  "front": "تتبّع خطوات تحوّل البيروفيت إلى أستيل مرافق إنزيم أ.",
+                  "back": "(١) يدخل البيروفيت من السيتوسول إلى حشوة المايتوكندريون عبر بروتين ناقل فيتحرر جزيء CO₂ وينتج أستيل. (٢) يُختزل NAD⁺ إلى NADH لكل جزيء بيروفيت. (٣) يرتبط مرافق إنزيم أ بالأستيل منتجاً أستيل مرافق إنزيم أ.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_9yd4",
+                  "front": "علّل: توافر الأكسجين ضروري جداً لحدوث المرحلة الثانية من التنفس الهوائي.",
+                  "back": "لأنه يحفّز دخول البيروفيت إلى حشوة المايتوكندريون ليتحول إلى أستيل مرافق إنزيم أ، ولكنه لا يُستهلك مطلقاً في هذه المرحلة.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_oo57",
+                  "front": "اشرح حلقة كربس.",
+                  "back": "تحدث في حشوة المايتوكندريون: يرتبط أستيل مرافق إنزيم أ (C₂) بأوكسالوأستيت (C₄) منتجاً الستريت (C₆)، يمر الستريت بعدة مراحل لإعادة بناء أوكسالوأستيت، فينتج لكل دورة: ‎2 CO₂ و‎3 NADH و‎1 FADH₂ و‎1 ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_i0n1",
+                  "front": "علّل: يتسبب جزيء الجلوكوز الواحد في حدوث دورتَين من حلقة كربس.",
+                  "back": "لأن تحلل جزيء الغلوكوز ينتج عنه ‎2 بيروفيت يتحولان إلى ‎2 أستيل مرافق إنزيم أ، وكل جزيء يدخل حلقة كربس مرة واحدة.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_mjrq",
+                  "front": "ما أهمية إعادة بناء أوكسالوأستيت في حلقة كربس؟",
+                  "back": "لإعادة ربط أستيل مرافق إنزيم أ واستمرار دوران الحلقة، وبالتالي استمرار تحرير الطاقة من الروابط الكيميائية.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_x9hm",
+                  "front": "صف تكوين سلسلة نقل الإلكترون في المايتوكندريون.",
+                  "back": "مجموعة من الإنزيمات والبروتينات (السايتوكرومات التي تحتوي ذرة حديد) مغمورة في الغشاء الداخلي للمايتوكندريون (الأعراف)، تترتب وفق نظام خاص يتيح إطلاق الطاقة عند نقل الإلكترونات من NADH و FADH₂.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_tvjj",
+                  "front": "عرّف الفسفرة التأكسدية.",
+                  "back": "عملية تنتقل فيها الإلكترونات ضمن مستويات طاقة مختلفة عبر بروتينات سلسلة نقل الإلكترون، حيث تنطلق الطاقة المخزنة في NADH و FADH₂ لتكوين جزيئات ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_vhcg",
+                  "front": "صف تكوين ATP في سلسلة نقل الإلكترون.",
+                  "back": "تضخّ البروتينات أيونات H⁺ من الحشوة إلى الحيز بين الغشائي مستخدمةً طاقة الإلكترون، ثم تنتقل H⁺ بفعل فرق التركيز إلى داخل الحشوة عبر إنزيم بناء ATP، فيُنشَّط الإنزيم ليبني ATP من ADP ومجموعات فوسفات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_a868",
+                  "front": "علّل: ينتج عن كل NADH ثلاثة ATP بينما ينتج عن كل FADH₂ جزيئان فقط.",
+                  "back": "لأن NADH يمتلك طاقة أكبر فيرتبط بالبروتين الأول في سلسلة نقل الإلكترون، أما FADH₂ فيرتبط بالبروتين الثاني ولا يمر بالأول، فتنتج عنه كمية أقل من ATP.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_49qx",
+                  "front": "ما دور الأكسجين في سلسلة نقل الإلكترونات؟",
+                  "back": "يعمل كمستقبل نهائي للإلكترونات حيث يرتبط بها وبأيونات H⁺ لتكوين الماء وفق المعادلة: 2H⁺ + 2e⁻ + ½O₂ → H₂O.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_hpmx",
+                  "front": "علّل: تتوقف سلسلة نقل الإلكترونات عن العمل في غياب الأكسجين.",
+                  "back": "لأن الأكسجين هو المستقبل النهائي للإلكترونات في السلسلة، وتوافره هو ما يحفّز نقل الإلكترونات من ناقل لآخر؛ كما أن غيابه يمنع دخول البيروفيت أصلاً إلى الحشوة.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_xs0y",
+                  "front": "علّل: تكون كمية الطاقة في التنفس اللاهوائي أقل من الهوائي.",
+                  "back": "لأن المستقبل النهائي للإلكترونات في اللاهوائي ليس الأكسجين بل مواد كالسلفات، وهي أقل كهروسالبية من الأكسجين، مما يقلل من كفاءة إنتاج الطاقة.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_974f",
+                  "front": "كيف تؤدي مادة السيانيد إلى الوفاة؟",
+                  "back": "ترتبط بالسايتوكرومات في سلسلة نقل الإلكترونات فتتوقف عملية نقل الإلكترونات، فيتوقف إنتاج ATP فتحدث الوفاة.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_wfiy",
+                  "front": "كيف تُسبّب مادة DNP إنقاص الوزن والوفاة؟",
+                  "back": "إنقاص الوزن: تنشّط إنزيمات تحليل الكربوهيدرات والدهون والبروتينات فتسرّع تحليلها. الوفاة: تمنع إنزيم بناء ATP من إمرار H⁺ نحو الحشوة فيتوقف إنتاج ATP ويتوقف التنفس.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_ktno",
+                  "front": "قارن بين NAD⁺ و NADP⁺ من حيث الوظيفة.",
+                  "back": "NADP⁺ مرافق إنزيم يختزل الطاقة في الإلكترونات لإنتاج NADPH في المسار اللاحلقي للبناء الضوئي. NAD⁺ مرافق إنزيم يختزل الطاقة خلال تحلل المركبات العضوية في التنفس الخلوي لينتج NADH.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_fh61",
+                  "front": "حدّد المستقبل النهائي للإلكترونات في كل من: التحلل الغلايكولي، تحول البيروفيت لأستيل مرافق إنزيم أ، حلقة كربس، التنفس الهوائي، التنفس اللاهوائي، التخمر.",
+                  "back": "التحلل الغلايكولي: NAD⁺. تحول البيروفيت: NAD⁺. حلقة كربس: NAD⁺ و FAD. التنفس الهوائي (السلسلة): O₂. اللاهوائي: مركبات كالسلفات والنترات. التخمر: مركب عضوي كالأستيل ألدهايد.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_zc8f",
+                  "front": "ما المركبات المشتركة بين حلقتَي كربس وكالفن؟",
+                  "back": "‎ATP و CO₂ و H₂O، حيث تُنتَج في كربس وتُستخدم أو تنتج في كالفن.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                }
+              ]
+            },
+            {
+              "id": "l_mnsjxy9v_efdh",
+              "name": "النسب الحسابية والمسائل التطبيقية",
+              "order": 4,
+              "cards": [
+                {
+                  "id": "c_mnsjxy9v_96hd",
+                  "front": "⭐ جدول نسب البناء الضوئي لكل جزيء غلوكوز واحد.",
+                  "back": "لكل ‎1 غلوكوز: ‎6 CO₂ مُثبَّت · ‎6 O₂ متصاعد · ‎12 H₂O مشطورة · ‎12 NADPH · ‎18 ATP · ‎12 G3P كلي (‎2 صافي) · ‎6 RuBP مُعاد تصنيعه · ‎24 H⁺ لاختزال NADP⁺. الحلقة تدور ‎6 مرات لإنتاج ‎1 غلوكوز.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_3akv",
+                  "front": "⭐ جدول نسب التنفس الهوائي لكل جزيء غلوكوز واحد.",
+                  "back": "‎C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 38 ATP. التفصيل: التحلل الغلايكولي ‎2 ATP مباشر + ‎2 NADH. تحول البيروفيت ‎2 NADH + ‎2 CO₂. كربس ‎2 ATP مباشر + ‎6 NADH + ‎2 FADH₂ + ‎4 CO₂. السلسلة: ‎34 ATP غير مباشر (‎10 NADH × 3 + ‎2 FADH₂ × 2).",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_8w1o",
+                  "front": "كيف أحل مسألة مترابطة بين البناء الضوئي والتنفس؟",
+                  "back": "خطوات: (١) حوّل المعطى إلى عدد جزيئات الغلوكوز باستخدام جدول نسب البناء الضوئي. (٢) طبّق النسبة المطلوبة (مثلاً ‎3/4 من الغلوكوز). (٣) استخدم جدول نسب التنفس الهوائي لإيجاد الناتج المطلوب. كل مسألة = ضرب نسب فقط.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_tmaf",
+                  "front": "كم عدد مجموعات الفوسفات في جزيئات حمض غليسرين ثنائي الفوسفات الناتجة من تثبيت ‎n من CO₂؟",
+                  "back": "لكل CO₂ مُثبَّت ينتج ‎2 من حمض غليسرين ثنائي الفوسفات، وكل منها يحمل مجموعتَي فوسفات، فالمجموع = ‎n × 4 مجموعة فوسفات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_vcnl",
+                  "front": "كم جزيء ATP يلزم في حلقة كالفن لإنتاج جزيء غلوكوز واحد؟",
+                  "back": "‎18 جزيء ATP (‎12 في مرحلة الاختزال + ‎6 في إعادة تصنيع RuBP)؛ إذ تحتاج ‎1 غلوكوز إلى دوران الحلقة ‎6 مرات.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                },
+                {
+                  "id": "c_mnsjxy9v_9twi",
+                  "front": "علّل: أيّهما أفضل لحلقة كالفن: الليل أم النهار؟",
+                  "back": "النهار أفضل، لأن حلقة كالفن تعتمد على توافر نواتج التفاعلات الضوئية ATP و NADPH، وهذه لا تُنتَج إلا في وجود الضوء.",
+                  "lang": "ar",
+                  "frontImage": null,
+                  "backImage": null,
+                  "tags": [],
+                  "source": "ai-generated",
+                  "importedAt": "2026-04-10T06:55:53.538Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "Technology": {
       "units": []
