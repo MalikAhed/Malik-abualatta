@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-11T04:18:14.566Z",
+  "updatedAt": "2026-04-13T18:19:56.327Z",
   "subjects": {
     "Math": {
       "units": [
@@ -26,1124 +26,372 @@
     "Biology": {
       "units": [
         {
-          "id": "u_mnsmd7ag_8w7f",
+          "id": "u_mnxioz1j_b9ev",
           "name": "الوحدة الأولى: عمليات حيوية في الخلية",
           "order": 1,
           "lessons": [
             {
-              "id": "l_mnsmd7ai_6m3b",
-              "name": "الفصل 1 · الدرس 1 — البناء الضوئي",
+              "id": "l_mnxioz1j_1zhi",
+              "name": "الدرس الأول: تدفق الطاقة",
               "order": 1,
               "cards": [
                 {
-                  "id": "c_mnsmd7ai_iy07",
-                  "front": "عرّف عملية البناء الضوئي.",
-                  "back": "عملية تقوم بها النباتات والطحالب وبعض البكتيريا، تُحوَّل فيها الطاقة الشمسية إلى طاقة كيميائية مخزّنة في السكر وغيره من الجزيئات العضوية.",
+                  "id": "c_mnxioz1j_dsw7",
+                  "front": "مم تتكون جزيئات حاملات الطاقة (ATP) في الخلية؟",
+                  "back": "تتكون من نيوكليوتيدات تحتوي على روابط كيميائية تخزن طاقة كبيرة، وتضم: قاعدة أدنين، سكر ريبوز، و3 مجموعات فوسفات.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "ATP"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_lwu5",
-                  "front": "اكتب معادلة ماير (المعادلة الكلية للبناء الضوئي).",
-                  "back": "‎6CO₂ + 12H₂O ⟶ (طاقة ضوئية، كلوروفيل) ⟶ C₆H₁₂O₆ + 6O₂ + 6H₂O.",
+                  "id": "c_mnxioz1j_87a9",
+                  "front": "كم تبلغ كمية الطاقة الناتجة عن تحلل مول واحد من ATP إلى ADP؟",
+                  "back": "7.3 كيلو كالوري/مول (7.3 kcal/mol).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Energy"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_iv33",
-                  "front": "ما مصدر الزيادة في كتلة النبات؟",
-                  "back": "ثاني أكسيد الكربون (CO₂) الذي يتحوّل إلى سكر الغلوكوز في عملية البناء الضوئي.",
+                  "id": "c_mnxioz1j_g256",
+                  "front": "ما هو أول مركب كربوهيدراتي ثابت ينتجه النبات في حلقة كالفن؟",
+                  "back": "سكر غليسر ألدهيد أحادي الفوسفات (G3P).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Photosynthesis"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_25mh",
-                  "front": "ما مصدر الأكسجين المتصاعد من عملية البناء الضوئي؟",
-                  "back": "الماء الذي تحلّله طاقة الشمس أثناء التفاعلات الضوئية في النظام الضوئي الثاني.",
+                  "id": "c_mnxioz1j_ajy9",
+                  "front": "أين تقع أصباغ البناء الضوئي (مثل الكلوروفيل) داخل البلاستيدة؟",
+                  "back": "في أغشية الثايلاكويد (Thylakoids).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Structure"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_hyw7",
-                  "front": "أين تحدث تفاعلات البناء الضوئي داخل البلاستيدة؟",
-                  "back": "داخل البلاستيدة الخضراء في منطقتين:\n1. التفاعلات الضوئية — في أغشية الثايلاكويد\n2. التفاعلات اللاضوئية (حلقة كالفن) — في الستروما",
+                  "id": "c_mnxioz1j_0aaq",
+                  "front": "ما هي الأطوال الموجية التي يمتصها الكلوروفيل بأعلى كفاءة؟",
+                  "back": "الموجات الحمراء والزرقاء.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Light"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_hfhq",
-                  "front": "علّل: تُعد الأوراق المكان الرئيس لحدوث البناء الضوئي.",
-                  "back": "لأنها تحتوي الكمية الأكبر من البلاستيدات الخضراء التي تحدث فيها التفاعلات.",
+                  "id": "c_mnxioz1j_knpi",
+                  "front": "ما هو مصدر الإلكترونات التي تعوض ما فقده نظام الضوء الثاني (PSII) في المسار اللاحلقي؟",
+                  "back": "تحلل جزيء الماء (H2O) ضوئياً.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Photosynthesis"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_ewli",
-                  "front": "أين توجد صبغة الكلوروفيل وما أهميتها؟",
-                  "back": "توجد في أغشية الثايلاكويد، وتمتص الطاقة الضوئية وتحوّلها إلى طاقة كيميائية، وهي التي تكسب النبات لونه الأخضر.",
+                  "id": "c_mnxioz1j_81fi",
+                  "front": "ما هي نواتج المسار الإلكتروني اللاحلقي؟",
+                  "back": "1. أكسجين (O2)\n2. ATP\n3. NADPH",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Light Reactions"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_8q55",
-                  "front": "علّل: يظهر اللون الأخضر في النباتات.",
-                  "back": "لأن صبغة الكلوروفيل تعكس الموجات الخضراء ولا تمتصها، بينما تمتص باقي موجات الضوء المرئي.",
+                  "id": "c_mnxioz1j_z601",
+                  "front": "ما هي المراحل الثلاث لحلقة كالفن؟",
+                  "back": "1. تثبيت الكربون.\n2. الاختزال.\n3. إعادة تصنيع مستقبل CO2 (الـ RuBP).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Calvin Cycle"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_32b1",
-                  "front": "أيّ الموجات الضوئية يتم امتصاصها بكفاءة عالية في البناء الضوئي؟",
-                  "back": "الحمراء والزرقاء؛ إذ يبلغ البناء الضوئي أعلى معدلاته عند امتصاصهما.",
+                  "id": "c_mnxioz1j_vesn",
+                  "front": "كم عدد جزيئات CO2 اللازمة لإنتاج جزيء واحد من الغلوكوز؟",
+                  "back": "6 جزيئات CO2 (تتطلب دورتين كاملتين من حلقة كالفن).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Calvin Cycle"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_xlg5",
-                  "front": "اشرح تكوين النظام الضوئي.",
-                  "back": "يتكوّن النظام الضوئي من جزأين:\n1. مركز التفاعل — يحوي جزيئَين من كلوروفيل a ومستقبل إلكترونات أولي\n2. أصباغ مختلفة — كلوروفيل a وكلوروفيل b والكاروتين، مرتبطة ببروتينات وتعمل كلاقطات للضوء تمرّر الطاقة إلى مركز التفاعل",
+                  "id": "c_mnxioz1j_bai4",
+                  "front": "أين تحدث عملية التحلل الغليكولي، وهل تحتاج للأكسجين؟",
+                  "back": "تحدث في السيتوسول، وهي عملية لا هوائية (لا تحتاج لأكسجين).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Respiration"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_r7nq",
-                  "front": "ما وظيفة مركز التفاعل في النظام الضوئي؟",
-                  "back": "إطلاق إلكترونات منشَّطة إلى المستقبل الإلكتروني الأولي بعد تحويل الطاقة الضوئية إلى طاقة كيميائية.",
+                  "id": "c_mnxioz1j_shjq",
+                  "front": "ما هو صافي إنتاج الـ ATP من التحلل الغليكولي لجزيء غلوكوز واحد؟",
+                  "back": "2 جزيء ATP.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Respiration"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_yis6",
-                  "front": "قارن بين PSI و PSII من حيث طول الموجة الممتصة.",
-                  "back": "PSI يمتص الضوء بأعلى كفاءة عند طول موجة ‎700 نانومتر، وPSII عند ‎680 نانومتر.",
+                  "id": "c_mnxioz1j_q2km",
+                  "front": "ما هو المركب الذي يبدأ بدخول دورة كريبس؟",
+                  "back": "أسيتيل مرافق إنزيم أ (Acetyl-CoA).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Krebs Cycle"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_g06z",
-                  "front": "ما المساران اللذان تتحوّل فيهما الطاقة الضوئية إلى طاقة كيميائية؟",
-                  "back": "المسار الإلكتروني اللاحلقي والمسار الإلكتروني الحلقي.",
+                  "id": "c_mnxioz1j_gkx2",
+                  "front": "ما هي نواتج دورة كريبس (لدورة واحدة فقط)؟",
+                  "back": "2 CO2، 3 NADH، 1 FADH2، 1 ATP.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Krebs Cycle"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_g6oi",
-                  "front": "علّل: يبدأ المسار اللاحلقي من النظام الضوئي الثاني وليس الأول.",
-                  "back": "للأسباب التالية:\n1. PSII ينشط عند 680 نانومتر قبل PSI (700 نانومتر)\n2. إنزيم شطر الماء موجود في PSII\n3. تسمية PSI نبعت من كونه اكتُشف أولاً لا أنه يعمل أولاً",
+                  "id": "c_mnxioz1j_nbj1",
+                  "front": "أين تقع سلسلة نقل الإلكترون في الميتوكندريا؟",
+                  "back": "في الغشاء الداخلي للميتوكندريا (الأعراف).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "ETC"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_tsqe",
-                  "front": "صف آلية شطر جزيئات الماء وانطلاق الأكسجين.",
-                  "back": "نتيجة استمرار امتصاص الضوء في PSII، يعمل إنزيم خاص على شطر الماء:\n\nH₂O → 2H⁺ + ½O₂ + 2e⁻\n\nثم:\n1. تزوَّد مراكز التفاعل في PSII بالإلكترونات\n2. ترتبط ذرات الأكسجين مكوّنةً O₂\n3. ينطلق O₂ إلى الجو كناتج نهائي",
+                  "id": "c_mnxioz1j_mtw2",
+                  "front": "كم عدد جزيئات ATP الناتجة من أكسدة جزيء واحد من NADH في سلسلة نقل الإلكترون؟",
+                  "back": "3 جزيئات ATP تقريباً.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_dgs7",
-                  "front": "صف عملية تكوين ATP في البناء الضوئي.",
-                  "back": "تنتقل الإلكترونات المنشَّطة من المستقبل الأولي في PSII عبر سلسلة نواقل بروتينية (السايتوكرومات)، ويتم من خلالها بناء جزيئات ATP باستخدام طاقة الإلكترونات.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_okxn",
-                  "front": "صف عملية اختزال NADP⁺ إلى NADPH.",
-                  "back": "1. تصل الإلكترونات إلى مركز تفاعل PSI ويُعاد تنشيطها\n2. تنتقل عبر نواقل إلى إنزيم مختزل NADP⁺\n3. يتم الاختزال حسب المعادلة:\n\nNADP⁺ + 2H⁺ + 2e⁻ → NADPH + H⁺",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_hoi0",
-                  "front": "ما مصدر الإلكترونات لتعويض PSII؟ وما مصدرها لتعويض PSI؟",
-                  "back": "- PSII: يُعوَّض من شطر الماء\n- PSI: يُعوَّض من الإلكترونات القادمة من PSII عبر سلسلة نقل الإلكترون",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_gbqs",
-                  "front": "ما المستقبل النهائي للإلكترونات في المسار اللاحلقي؟",
-                  "back": "إنزيم مختزل NADP⁺ (أي NADP⁺ الذي يُختزل إلى NADPH).",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_akff",
-                  "front": "ما نواتج المسار اللاحلقي؟",
-                  "back": "- ATP\n- NADPH\n- O₂",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_p136",
-                  "front": "ما أهمية السايتوكرومات الموجودة بين النظامَين الضوئيَّين؟",
-                  "back": "لها دور مهم في بناء جزيئات ATP باستخدام طاقة الإلكترونات أثناء مرورها خلال سلسلة نقل الإلكترون.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_ej8r",
-                  "front": "علّل: يُعد NADPH عامل اختزال قوي.",
-                  "back": "لأنه يضيف إلكترونات عالية الطاقة وأيونات هيدروجين لصنع جزيئات السكر في حلقة كالفن.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_nadj",
-                  "front": "اشرح تفاعلات المسار الإلكتروني الحلقي.",
-                  "back": "1. تصل الإلكترونات إلى مركز تفاعل PSI بعد أن استنفدت طاقتها\n2. يُعاد تنشيطها بامتصاص الضوء\n3. تنتقل إلى المستقبل الأولي ثم سلسلة نقل الإلكترون وتعود إلى PSI\n\nالناتج: ATP فقط",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_dn0n",
-                  "front": "ما أهمية المسار الإلكتروني الحلقي؟",
-                  "back": "إنتاج كمية إضافية من ATP فقط، ليصبح عدد ATP الناتج في التفاعلات الضوئية أكبر من عدد NADPH، تلبيةً لحاجة حلقة كالفن.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_qg0f",
-                  "front": "قارن بين المسار الحلقي واللاحلقي.",
-                  "back": "المسار اللاحلقي:\n- النظام المشارك: PSI و PSII\n- تعويض الإلكترونات: من الماء\n- النواتج: ATP و NADPH و O₂\n- المستقبل النهائي: NADP⁺\n\nالمسار الحلقي:\n- النظام المشارك: PSI فقط\n- تعويض الإلكترونات: ذاتي\n- النواتج: ATP فقط\n- لا ينتج O₂ ولا NADPH",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_v7tq",
-                  "front": "قارن بين التفاعلات الضوئية واللاضوئية من حيث المواد اللازمة والنواتج ومكان الحدوث.",
-                  "back": "التفاعلات الضوئية:\n- اللازم: H₂O وضوء و NADP⁺ و ADP\n- النواتج: O₂ و ATP و NADPH\n- المكان: غشاء الثايلاكويد\n\nالتفاعلات اللاضوئية:\n- اللازم: CO₂ و ATP و NADPH\n- النواتج: G3P و ADP و NADP⁺\n- المكان: الستروما\n- لا تحتاج الضوء مباشرةً",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_2q7v",
-                  "front": "علّل: تُسمّى التفاعلات اللاضوئية بحلقة كالفن.",
-                  "back": "نسبةً إلى مكتشفها العالِم كالفن.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_yq52",
-                  "front": "علّل: تُعد ستروما البلاستيدة مكاناً مناسباً لحدوث حلقة كالفن.",
-                  "back": "لتوافر الإنزيمات اللازمة فيها، ولاستخدامها نواتج التفاعلات الضوئية ATP و NADPH.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_8mhb",
-                  "front": "ما مراحل حلقة كالفن الثلاث؟",
-                  "back": "1. تثبيت الكربون\n2. الاختزال\n3. إعادة تصنيع رايبولوز ثنائي الفوسفات (RuBP)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_tm7a",
-                  "front": "اشرح مرحلة تثبيت الكربون في حلقة كالفن.",
-                  "back": "1. يرتبط كل جزيء CO₂ بمركب خماسي الكربون (RuBP) بواسطة إنزيم روبيسكو\n2. ينتج مركب سداسي الكربون غير ثابت\n3. ينشطر تلقائياً إلى جزيئين من حمض غليسرين أحادي الفوسفات (3-PGA)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_qmbv",
-                  "front": "اشرح مرحلة الاختزال في حلقة كالفن.",
-                  "back": "1. يحصل كل جزيء 3-PGA على مجموعة فوسفات من ATP فيتكوّن حمض غليسرين ثنائي الفوسفات\n2. يعمل NADPH على اختزاله إلى سكر غليسرألدهايد أحادي الفوسفات (G3P)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_prrx",
-                  "front": "اشرح مرحلة إعادة تصنيع RuBP في حلقة كالفن.",
-                  "back": "من كل ‎6 جزيئات G3P تُستخدم ‎5 جزيئات (تحوي ‎15 ذرة كربون) لإعادة بناء ‎3 جزيئات RuBP (تحوي ‎15 ذرة كربون) في سلسلة تفاعلات تستهلك ‎3 جزيئات ATP.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_9xp1",
-                  "front": "ما المركب الكربوهيدراتي الأول الثابت الناتج من البناء الضوئي؟",
-                  "back": "سكر غليسرألدهايد أحادي الفوسفات (G3P)، وهو الهيكل الكربوني لجميع المركبات العضوية التي ينتجها النبات.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_le7d",
-                  "front": "علّل: من ‎6 جزيئات G3P في حلقة كالفن يدخل جزيء واحد فقط في إنتاج المركبات العضوية.",
-                  "back": "لأن ‎5 جزيئات تُستخدم لإعادة تصنيع RuBP حتى تستمر الحلقة بالعمل، فيتبقى جزيء واحد فقط يدخل في تصنيع الغلوكوز وغيره.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_ozr4",
-                  "front": "ما المستقبل النهائي للإلكترونات في حلقة كالفن؟",
-                  "back": "حمض غليسرين ثنائي الفوسفات (1,3-BPG)، لأنه المركب الذي يختزله NADPH إلى G3P.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_31pq",
-                  "front": "ما أهمية ATP و NADPH في حلقة كالفن؟",
-                  "back": "ATP مصدر الطاقة اللازمة لتشغيل مراحل الحلقة، وNADPH عامل اختزال قوي يضيف إلكترونات عالية الطاقة وأيونات هيدروجين لصنع السكر.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_z58l",
-                  "front": "ما العوامل التي تؤثر على معدل البناء الضوئي؟",
-                  "back": "1. شدة الضوء — حتى نقطة التشبع الضوئي\n2. تركيز CO₂\n3. درجة الحرارة — أقل أو أعلى من المثلى تؤثر سلباً\n4. توافر الماء",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_9jzs",
-                  "front": "⭐ جدول نسب البناء الضوئي لكل جزيء غلوكوز واحد.",
-                  "back": "لكل 1 غلوكوز:\n- 6 CO₂ مُثبَّت\n- 6 O₂ متصاعد\n- 12 H₂O مشطورة\n- 12 NADPH\n- 18 ATP\n- 12 G3P كلي (2 صافي)\n- 6 RuBP مُعاد تصنيعه\n- 24 H⁺ لاختزال NADP⁺\n\nالحلقة تدور 6 مرات لإنتاج 1 غلوكوز.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_4jln",
-                  "front": "كم عدد مجموعات الفوسفات في جزيئات حمض غليسرين ثنائي الفوسفات الناتجة من تثبيت ‎n من CO₂؟",
-                  "back": "لكل CO₂ مُثبَّت ينتج ‎2 من حمض غليسرين ثنائي الفوسفات، وكل منها يحمل مجموعتَي فوسفات، فالمجموع = ‎n × 4 مجموعة فوسفات.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_zrtu",
-                  "front": "كم جزيء ATP يلزم في حلقة كالفن لإنتاج جزيء غلوكوز واحد؟",
-                  "back": "‎18 جزيء ATP (‎12 في مرحلة الاختزال + ‎6 في إعادة تصنيع RuBP)؛ إذ تحتاج ‎1 غلوكوز إلى دوران الحلقة ‎6 مرات.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_nmln",
-                  "front": "علّل: أيّهما أفضل لحلقة كالفن: الليل أم النهار؟",
-                  "back": "النهار أفضل، لأن حلقة كالفن تعتمد على توافر نواتج التفاعلات الضوئية ATP و NADPH، وهذه لا تُنتَج إلا في وجود الضوء.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "ETC"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 }
               ]
             },
             {
-              "id": "l_mnsmd7ai_r2fx",
-              "name": "الفصل 1 · الدرس 2 — التنفس الخلوي",
+              "id": "l_mnxioz1j_v8as",
+              "name": "الدرس الثاني: من الجين إلى البروتين",
               "order": 2,
               "cards": [
                 {
-                  "id": "c_mnsmd7ai_uj9l",
-                  "front": "عرّف التنفس الخلوي.",
-                  "back": "عملية تقوم بواسطتها الكائنات الحية بتفكيك الروابط في المواد الغذائية (المركبات العضوية) وتحرير الطاقة المخزَّنة بها على شكل ATP.",
+                  "id": "c_mnxioz1j_xcj2",
+                  "front": "ممن يتكون هيكل السكر والفوسفات في جزيء الـ DNA؟",
+                  "back": "يتكون من تبادل سكر ريبوز منقوص الأكسجين ومجموعة فوسفات مرتبطة بروابط تساهمية غليسرية.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "DNA Structure"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_sehf",
-                  "front": "اكتب المعادلة الكلية للتنفس الهوائي الخلوي.",
-                  "back": "‎C₆H₁₂O₆ + 6O₂ ⟶ (إنزيمات) ⟶ 6CO₂ + 6H₂O + 38 ATP.",
+                  "id": "c_mnxioz1j_hvdp",
+                  "front": "ما هي القواعد النيتروجينية التي تنتمي لمجموعة البيورينات؟",
+                  "back": "الأدنين (A) والغوانين (G).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "DNA Structure"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_wnno",
-                  "front": "قارن بين التنفس الهوائي واللاهوائي والتخمر من حيث المستقبل النهائي للإلكترونات.",
-                  "back": "- التنفس الهوائي: O₂\n- التنفس اللاهوائي: مركبات من الأكسجين كالسلفات SO₄²⁻ أو النترات NO₃⁻\n- التخمر: مركب عضوي كالأستيل ألدهايد أو البيروفيت",
+                  "id": "c_mnxioz1j_z1az",
+                  "front": "ما وظيفة إنزيم ربط DNA (DNA Ligase) أثناء التضاعف؟",
+                  "back": "ربط قطع أوكازاكي في السلسلة المتأخرة لتكوين سلسلة متصلة.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Replication"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_fr08",
-                  "front": "ما مراحل التنفس الهوائي الخلوي الأربع؟",
-                  "back": "1. التحلل الغلايكولي\n2. تحول البيروفيت إلى أستيل مرافق إنزيم أ\n3. حلقة كربس\n4. سلسلة نقل الإلكترونات",
+                  "id": "c_mnxioz1j_eule",
+                  "front": "ما هو اتجاه بناء سلسلة الـ DNA الجديدة؟",
+                  "back": "دائماً من الطرف 5' إلى الطرف 3'.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Replication"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_6pwr",
-                  "front": "اشرح مرحلة التحلل الغلايكولي.",
-                  "back": "تحدث في سيتوسول جميع الخلايا دون حاجة للأكسجين:\n1. يُنشَّط الغلوكوز باستهلاك 2 ATP\n2. ينشطر إلى جزيئَي غليسرألدهايد ثلاثي الكربون\n3. يتأكسدان ليُنتجا في النهاية:\n- 2 بيروفيت\n- 2 NADH\n- 4 ATP إجمالي (صافي 2 ATP)",
+                  "id": "c_mnxioz1j_047d",
+                  "front": "ما هي الفروقات الثلاث الرئيسية بين DNA و RNA؟",
+                  "back": "1. السكر: (DNA منقوص الأكسجين / RNA ريبوزي).\n2. القواعد: (DNA يحتوي T / RNA يحتوي U).\n3. السلاسل: (DNA لولب مزدوج / RNA سلسلة واحدة غالباً).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Comparison"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_ijte",
-                  "front": "علّل: يتم استهلاك ‎2 ATP في بداية مرحلة التحلل الغلايكولي.",
-                  "back": "لتنشيط جزيء الغلوكوز حتى يتمكّن من الانشطار إلى جزيئَين من غليسرألدهايد ثلاثي الكربون وتبدأ سلسلة التفاعلات.",
+                  "id": "c_mnxioz1j_kbrf",
+                  "front": "ما هي وظيفة الـ tRNA في عملية بناء البروتين؟",
+                  "back": "نقل الأحماض الأمينية من السايتوبلازم إلى الريبوسومات وبناءً على الكودونات.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Translation"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_xpir",
-                  "front": "تتبّع خطوات تحوّل البيروفيت إلى أستيل مرافق إنزيم أ.",
-                  "back": "1. يدخل البيروفيت من السيتوسول إلى حشوة المايتوكندريون عبر بروتين ناقل فيتحرر جزيء CO₂ وينتج أستيل\n2. يُختزل NAD⁺ إلى NADH لكل جزيء بيروفيت\n3. يرتبط مرافق إنزيم أ بالأستيل منتجاً أستيل مرافق إنزيم أ",
+                  "id": "c_mnxioz1j_2nc4",
+                  "front": "ماذا يسمى تتابع النيوكليوتيدات الثلاثي على الـ mRNA؟",
+                  "back": "الكودون (Codon).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Genetic Code"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_z2qw",
-                  "front": "علّل: توافر الأكسجين ضروري جداً لحدوث المرحلة الثانية من التنفس الهوائي.",
-                  "back": "لأنه يحفّز دخول البيروفيت إلى حشوة المايتوكندريون ليتحول إلى أستيل مرافق إنزيم أ، ولكنه لا يُستهلك مطلقاً في هذه المرحلة.",
+                  "id": "c_mnxioz1j_ukbi",
+                  "front": "ما هو كودون البدء وماذا يشفر؟",
+                  "back": "كودون البدء هو AUG، ويشفر للحمض الأميني ميثيونين.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Translation"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_ukao",
-                  "front": "اشرح حلقة كربس.",
-                  "back": "تحدث في حشوة المايتوكندريون:\n1. يرتبط أستيل مرافق إنزيم أ (C₂) بأوكسالوأستيت (C₄) منتجاً الستريت (C₆)\n2. يمر الستريت بعدة مراحل لإعادة بناء أوكسالوأستيت\n\nنواتج كل دورة:\n- 2 CO₂\n- 3 NADH\n- 1 FADH₂\n- 1 ATP",
+                  "id": "c_mnxioz1j_m9g8",
+                  "front": "ما هي كودونات الإيقاف الثلاثة؟",
+                  "back": "UAA, UAG, UGA.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Translation"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_ktqe",
-                  "front": "علّل: يتسبب جزيء الجلوكوز الواحد في حدوث دورتَين من حلقة كربس.",
-                  "back": "لأن تحلل جزيء الغلوكوز ينتج عنه ‎2 بيروفيت يتحولان إلى ‎2 أستيل مرافق إنزيم أ، وكل جزيء يدخل حلقة كربس مرة واحدة.",
+                  "id": "c_mnxioz1j_791q",
+                  "front": "ما هي المواقع الثلاثة في وحدة الريبوسوم الكبيرة؟",
+                  "back": "موقع A (الوصول)، موقع P (الببتيد)، وموقع E (الخروج).",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Ribosome"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_a6lu",
-                  "front": "ما أهمية إعادة بناء أوكسالوأستيت في حلقة كربس؟",
-                  "back": "لإعادة ربط أستيل مرافق إنزيم أ واستمرار دوران الحلقة، وبالتالي استمرار تحرير الطاقة من الروابط الكيميائية.",
+                  "id": "c_mnxioz1j_fouz",
+                  "front": "أين تتم عملية معالجة الـ mRNA الأولي (Pre-mRNA)؟",
+                  "back": "في النواة قبل خروجه إلى السايتوبلازم.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Transcription"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 },
                 {
-                  "id": "c_mnsmd7ai_eo5k",
-                  "front": "صف تكوين سلسلة نقل الإلكترون في المايتوكندريون.",
-                  "back": "مجموعة من الإنزيمات والبروتينات (السايتوكرومات التي تحتوي ذرة حديد) مغمورة في الغشاء الداخلي للمايتوكندريون (الأعراف)، تترتب وفق نظام خاص يتيح إطلاق الطاقة عند نقل الإلكترونات من NADH و FADH₂.",
+                  "id": "c_mnxioz1j_dvvl",
+                  "front": "ما هو الكودون المضاد (Anticodon) وأين يوجد؟",
+                  "back": "تتابع ثلاثي من النيوكليوتيدات متمم لكودون mRNA، ويوجد على جزيء الـ tRNA.",
                   "lang": "ar",
                   "frontImage": null,
                   "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_dp2w",
-                  "front": "عرّف الفسفرة التأكسدية.",
-                  "back": "عملية تنتقل فيها الإلكترونات ضمن مستويات طاقة مختلفة عبر بروتينات سلسلة نقل الإلكترون، حيث تنطلق الطاقة المخزنة في NADH و FADH₂ لتكوين جزيئات ATP.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_yyd4",
-                  "front": "صف تكوين ATP في سلسلة نقل الإلكترون.",
-                  "back": "تضخّ البروتينات أيونات H⁺ من الحشوة إلى الحيز بين الغشائي مستخدمةً طاقة الإلكترون، ثم تنتقل H⁺ بفعل فرق التركيز إلى داخل الحشوة عبر إنزيم بناء ATP، فيُنشَّط الإنزيم ليبني ATP من ADP ومجموعات فوسفات.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_9diz",
-                  "front": "علّل: ينتج عن كل NADH ثلاثة ATP بينما ينتج عن كل FADH₂ جزيئان فقط.",
-                  "back": "لأن NADH يمتلك طاقة أكبر فيرتبط بالبروتين الأول في سلسلة نقل الإلكترون، أما FADH₂ فيرتبط بالبروتين الثاني ولا يمر بالأول، فتنتج عنه كمية أقل من ATP.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_cnzz",
-                  "front": "ما دور الأكسجين في سلسلة نقل الإلكترونات؟",
-                  "back": "يعمل كمستقبل نهائي للإلكترونات حيث يرتبط بها وبأيونات H⁺ لتكوين الماء وفق المعادلة: 2H⁺ + 2e⁻ + ½O₂ → H₂O.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_44pv",
-                  "front": "علّل: تتوقف سلسلة نقل الإلكترونات عن العمل في غياب الأكسجين.",
-                  "back": "لأن الأكسجين هو المستقبل النهائي للإلكترونات في السلسلة، وتوافره هو ما يحفّز نقل الإلكترونات من ناقل لآخر؛ كما أن غيابه يمنع دخول البيروفيت أصلاً إلى الحشوة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_9nxa",
-                  "front": "علّل: تكون كمية الطاقة في التنفس اللاهوائي أقل من الهوائي.",
-                  "back": "لأن المستقبل النهائي للإلكترونات في اللاهوائي ليس الأكسجين بل مواد كالسلفات، وهي أقل كهروسالبية من الأكسجين، مما يقلل من كفاءة إنتاج الطاقة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_v9r2",
-                  "front": "كيف تؤدي مادة السيانيد إلى الوفاة؟",
-                  "back": "ترتبط بالسايتوكرومات في سلسلة نقل الإلكترونات فتتوقف عملية نقل الإلكترونات، فيتوقف إنتاج ATP فتحدث الوفاة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_pluy",
-                  "front": "كيف تُسبّب مادة DNP إنقاص الوزن والوفاة؟",
-                  "back": "- إنقاص الوزن: تنشّط الإنزيمات التي تحلّل الكربوهيدرات والدهون والبروتينات فتسرّع تحليلها\n- الوفاة: تمنع إنزيم بناء ATP من إمرار H⁺ نحو الحشوة، فيتوقف إنتاج ATP ويتوقف التنفس",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_sqc2",
-                  "front": "قارن بين NAD⁺ و NADP⁺ من حيث الوظيفة.",
-                  "back": "- NADP⁺: مرافق إنزيم يختزل الطاقة في الإلكترونات لإنتاج NADPH في المسار اللاحلقي للبناء الضوئي\n- NAD⁺: مرافق إنزيم يختزل الطاقة خلال تحلل المركبات العضوية في التنفس الخلوي لينتج NADH",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_hvup",
-                  "front": "حدّد المستقبل النهائي للإلكترونات في كل من: التحلل الغلايكولي، تحول البيروفيت لأستيل مرافق إنزيم أ، حلقة كربس، التنفس الهوائي، التنفس اللاهوائي، التخمر.",
-                  "back": "- التحلل الغلايكولي: NAD⁺\n- تحول البيروفيت: NAD⁺\n- حلقة كربس: NAD⁺ و FAD\n- التنفس الهوائي (السلسلة): O₂\n- اللاهوائي: مركبات كالسلفات والنترات\n- التخمر: مركب عضوي",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_emai",
-                  "front": "ما المركبات المشتركة بين حلقتَي كربس وكالفن؟",
-                  "back": "- ATP\n- CO₂\n- H₂O\n\nتُنتَج في كربس وتُستخدم أو تنتج في كالفن.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_utz3",
-                  "front": "⭐ جدول نسب التنفس الهوائي لكل جزيء غلوكوز واحد.",
-                  "back": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 38 ATP\n\nالتفصيل لكل مرحلة:\n1. التحلل الغلايكولي: 2 ATP مباشر + 2 NADH\n2. تحول البيروفيت: 2 NADH + 2 CO₂\n3. حلقة كربس: 2 ATP مباشر + 6 NADH + 2 FADH₂ + 4 CO₂\n4. سلسلة نقل الإلكترون: 34 ATP غير مباشر\n   (10 NADH × 3 + 2 FADH₂ × 2)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7ai_g8oa",
-                  "front": "كيف أحل مسألة مترابطة بين البناء الضوئي والتنفس؟",
-                  "back": "الخطوات:\n1. حوّل المعطى إلى عدد جزيئات الغلوكوز باستخدام جدول نسب البناء الضوئي\n2. طبّق النسبة المطلوبة (مثلاً 3/4 من الغلوكوز)\n3. استخدم جدول نسب التنفس الهوائي لإيجاد الناتج المطلوب\n\nكل مسألة = ضرب نسب فقط.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                }
-              ]
-            },
-            {
-              "id": "l_mnsmd7ai_h4zu",
-              "name": "الفصل 2 · الدرس 1 — الشيفرة الوراثية",
-              "order": 3,
-              "cards": [
-                {
-                  "id": "c_mnsmd7aj_ry6g",
-                  "front": "عرّف الشيفرة الوراثية.",
-                  "back": "تسلسل النيوكليوتيدات في DNA، والتي تُمثَّل على جزيء mRNA بالكودون، ويتم قراءتها في الرايبوسوم لإنتاج عديد الببتيد.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_u82y",
-                  "front": "عرّف الكودون.",
-                  "back": "ثلاث نيوكليوتيدات متتالية على سلسلة mRNA تشفر حمضاً أمينياً واحداً.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_qqtv",
-                  "front": "عرّف الكودون المضاد.",
-                  "back": "ثلاث نيوكليوتيدات على الحلقة الثانية من tRNA تكون متممة لأحد الكودونات على mRNA.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_ly4j",
-                  "front": "كم عدد أنواع الكودونات الممكنة على سلسلة mRNA؟",
-                  "back": "64 نوعاً (4³ = 64)، لأن هناك 4 نيوكليوتيدات مختلفة وكل كودون يتكوّن من 3 نيوكليوتيدات.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_ttrw",
-                  "front": "ما كودون البدء؟ وما الحمض الأميني الذي يشفّره؟",
-                  "back": "كودون البدء هو AUG، ويشفّر الحمض الأميني الميثيونين (Methionine).",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_5p7r",
-                  "front": "ما كودونات الإيقاف الثلاثة؟",
-                  "back": "\n- UAA\n- UAG\n- UGA\n\nلا تشفّر أحماضاً أمينية، بل توقف عملية الترجمة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_5r2y",
-                  "front": "أذكر الحموض الأمينية التي يشفّرها كودون واحد فقط.",
-                  "back": "- الميثيونين (Methionine) — AUG\n- التربتوفان (Tryptophan) — UGG",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_ps9v",
-                  "front": "علّل: يُشفَّر الحمض الأميني الواحد بأكثر من كودون، ولكن العكس لا يكون صحيحاً.",
-                  "back": "لأن عدد الكودونات الممكنة (64) أكبر من عدد الحموض الأمينية (20)، فبعض الحموض تشفّرها عدة كودونات، لكن كل كودون يشفّر حمضاً أمينياً واحداً فقط لضمان دقة بناء البروتين.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_xyc9",
-                  "front": "ما الذي تختلف فيه الكودونات التي تشفّر نفس الحمض الأميني؟",
-                  "back": "عادةً في النيوكليوتيد الثالث فقط (الحرف الثالث)، بينما يتطابق النيوكليوتيدان الأول والثاني.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                }
-              ]
-            },
-            {
-              "id": "l_mnsmd7aj_6na1",
-              "name": "الفصل 2 · الدرس 2 — بناء البروتين",
-              "order": 4,
-              "cards": [
-                {
-                  "id": "c_mnsmd7aj_d297",
-                  "front": "ماذا تحدد الجينات في DNA؟",
-                  "back": "صفات الكائن الحي، من خلال تسلسل محدد من النيوكليوتيدات يعطي الصفات المختلفة للكائنات الحية.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_s5jg",
-                  "front": "عرّف عملية بناء البروتين.",
-                  "back": "عملية تحويل تسلسل النيوكليوتيدات في DNA إلى لغة يمكن قراءتها بواسطة الرايبوسوم، ليبنى بها سلسلة عديد الببتيد.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_ryb6",
-                  "front": "ما أنواع RNA الثلاثة المشاركة في بناء البروتين؟",
-                  "back": "1. الرسول (mRNA)\n2. الناقل (tRNA)\n3. الرايبوسومي (rRNA)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_8x1s",
-                  "front": "ما وظيفة mRNA الرسول؟",
-                  "back": "يُنسخ من إحدى سلاسل DNA (السلسلة 3′→5′)، ويمثل سلسلة مفردة تحمل المعلومات الخاصة ببناء البروتين من النواة إلى السيتوسول، حيث يُشكّل قالباً لصنع البروتين من قبل الرايبوسوم.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_naip",
-                  "front": "ما وظيفة tRNA الناقل وما تركيبه؟",
-                  "back": "ينقل الحموض الأمينية من السيتوسول إلى الرايبوسوم ليتم ربطها في سلسلة عديد الببتيد. يتكوّن من شريط مفرد يلتف على نفسه ليكوّن 4 حلقات، تحتوي الحلقة الثانية على الكودون المضاد.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_oxw7",
-                  "front": "ما وظيفة rRNA الرايبوسومي؟",
-                  "back": "يدخل في بناء الرايبوسوم ويمثل الناحية الوظيفية فيه، ويعمل على ربط الحموض الأمينية المتجاورة بروابط ببتيدية أثناء عملية الترجمة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_wzad",
-                  "front": "ما الإنزيم المسؤول عن نسخ mRNA من DNA؟",
-                  "back": "RNA بلمرة (RNA Polymerase)، وبشكل أدق: DNA Dependent RNA Polymerases.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_evkd",
-                  "front": "ما مراحل عملية نسخ mRNA الثلاث؟",
-                  "back": "1. البدء (Initiation)\n2. الاستطالة (Elongation)\n3. الإنهاء (Termination)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_z73d",
-                  "front": "اشرح مرحلة البدء في عملية النسخ.",
-                  "back": "1. ترتبط عوامل النسخ (Transcription Factors) وإنزيم RNA بلمرة على بداية الجين المراد نسخه من سلسلة DNA (3′→5′)\n2. وتحديداً على تتابع معين من النيوكليوتيدات يسمى المحفز (Promoter)\n3. تُفتح سلسلتا DNA الملتفتين ويبدأ إنزيم RNA بلمرة بعملية النسخ",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_yifd",
-                  "front": "اشرح مرحلة الاستطالة في عملية النسخ.",
-                  "back": "يعمل إنزيم RNA بلمرة على إضافة نيوكليوتيدات متممة لتلك الموجودة على سلسلة DNA (التي تعمل كقالب)، فتبدأ سلسلة mRNA بالتكوّن. وبمجرد مرور الإنزيم تعود سلسلتا DNA للالتفاف، وتستمر إضافة النيوكليوتيدات المتممة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_qlap",
-                  "front": "اشرح مرحلة الإنهاء في عملية النسخ.",
-                  "back": "1. يصل إنزيم RNA بلمرة إلى تتابع نيوكليوتيدات يسمى منطقة الإنهاء (Termination Point)\n2. ينفصل الإنزيم عن سلسلة DNA وتُطلق سلسلة mRNA الجديدة\n3. تعود سلسلتا DNA للالتفاف حول بعضهما ثانيةً",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_xhw9",
-                  "front": "ما الفرق بين mRNA الأولي و mRNA الناضج؟",
-                  "back": "mRNA الأولي (Primary mRNA) هو السلسلة الناتجة مباشرة من النسخ، تمر بمرحلة معالجة لتُنتج mRNA الناضج (الوظيفي / Functional mRNA) الذي يدخل في الترجمة.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_ap8c",
-                  "front": "في عملية النسخ، ما النيوكليوتيد الذي يحل محل الثايمين؟",
-                  "back": "اليوراسيل (U) يحل محل الثايمين (T) في سلسلة mRNA المنسوخة. الباقي كما هو: A↔T(U)، C↔G.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_uxvr",
-                  "front": "عرّف عملية الترجمة.",
-                  "back": "ترجمة المعلومات من لغة جزيئية لأخرى، وذلك بتحويل تسلسل النيوكليوتيدات في mRNA إلى تسلسل الحموض الأمينية في عملية بناء البروتين.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_8zqq",
-                  "front": "ما المكونات اللازمة لحدوث عملية الترجمة؟",
-                  "back": "- mRNA الحاملة للشيفرة الوراثية\n- tRNA الحاملة للحموض الأمينية\n- الرايبوسومات (عُضيات بناء البروتينات)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_r801",
-                  "front": "صف تركيب الرايبوسوم.",
-                  "back": "يتكوّن من وحدتين بنائيتين:\n1. وحدة بنائية صغيرة (Small Subunit)\n2. وحدة بنائية كبيرة (Large Subunit)\n\nكلاهما مكوّن من rRNA وبروتينات؛ البروتينات تمثل الأجزاء التركيبية، وrRNA يمثل الأجزاء الوظيفية.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_wmzm",
-                  "front": "ما المواقع الأربعة في الرايبوسوم؟",
-                  "back": "1. موقع ارتباط mRNA — في منطقة الانغماد بين الوحدتين البنائيتين\n2. موقع A (Aminoacyl) — لاستقبال tRNA الجديد\n3. موقع P (Peptidyl) — يحمل السلسلة الببتيدية النامية\n4. موقع E (Exit) — منه يخرج tRNA الفارغ",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_25dd",
-                  "front": "ما مراحل عملية الترجمة الثلاث؟",
-                  "back": "1. البدء (Initiation)\n2. الاستطالة (Elongation)\n3. الإنهاء (Termination)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_4tf8",
-                  "front": "اشرح مرحلة البدء في الترجمة.",
-                  "back": "1. يرتبط mRNA بالوحدة البنائية الصغيرة للرايبوسوم بحيث يكون كودون البدء AUG في موقع P\n2. يرتبط tRNA الحامل للميثيونين على كودون البدء\n3. ترتبط الوحدة البنائية الكبيرة بالصغيرة\n4. يصبح موقع A فارغاً ومستعداً لاستقبال tRNA التالي",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_4c7q",
-                  "front": "اشرح خطوات مرحلة الاستطالة في الترجمة.",
-                  "back": "1. التعرّف على الكودون: يرتبط الكودون المضاد في tRNA الحامل للحمض الأميني بالكودون المتمم على mRNA في موقع A بروابط هيدروجينية\n2. تكوين الرابطة الببتيدية: يعمل rRNA في الوحدة الكبيرة كإنزيم رايبوزايم (Ribozyme) على تكوين رابطة ببتيدية بين الحمض الأميني في P والحمض الأميني في A\n3. تغيير موقع الرايبوسوم: يتحرك mRNA خلال الرايبوسوم بمقدار كودون واحد، فينتقل tRNA من A إلى P، ويخرج الفارغ من E\n4. يصبح الرايبوسوم جاهزاً لاستقبال tRNA جديد في A",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_i6or",
-                  "front": "ما وظيفة الرايبوزايم (Ribozyme) في الترجمة؟",
-                  "back": "هو rRNA في الوحدة البنائية الكبيرة يعمل كإنزيم على تكوين الرابطة الببتيدية بين الحمض الأميني في موقع P والحمض الأميني في موقع A.",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_tbde",
-                  "front": "اشرح مرحلة الإنهاء في الترجمة.",
-                  "back": "1. تستمر الترجمة حتى يقرأ الرايبوسوم أحد كودونات الإيقاف (UAA / UAG / UGA) على mRNA في موقع A\n2. يرتبط بروتيني عامل الإيقاف (Release Factor) مع كودون الإيقاف في A بدلاً من tRNA\n3. تنفصل سلسلة عديد الببتيد عن tRNA في موقع P\n4. تنفصل الوحدتان البنائيتان للرايبوسوم\n5. تخضع السلسلة لعمليات تعديل لتكوين بروتين وظيفي فعّال",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_9se5",
-                  "front": "قارن بين عملية النسخ وعملية الترجمة.",
-                  "back": "النسخ (Transcription):\n- المكان: النواة\n- القالب: DNA\n- الناتج: mRNA\n- الإنزيم: RNA بلمرة\n\nالترجمة (Translation):\n- المكان: السيتوسول (على الرايبوسوم)\n- القالب: mRNA\n- الناتج: سلسلة عديد الببتيد (بروتين)\n- الإنزيم الأساسي: rRNA (رايبوزايم)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
-                },
-                {
-                  "id": "c_mnsmd7aj_dqhe",
-                  "front": "ما دور DNA في مقابل RNA في بناء البروتين؟",
-                  "back": "- DNA: يحمل الشيفرة الوراثية ويعمل كقالب لعملية النسخ، ويبقى في النواة\n- RNA: (mRNA ينقل المعلومات، tRNA ينقل الحموض الأمينية، rRNA يبني الرايبوسوم ويصنع الرابطة الببتيدية)",
-                  "lang": "ar",
-                  "frontImage": null,
-                  "backImage": null,
-                  "tags": [],
-                  "source": "ai-generated",
-                  "importedAt": "2026-04-10T08:03:44.296Z"
+                  "tags": [
+                    "Translation"
+                  ],
+                  "source": "textbook",
+                  "importedAt": "2026-04-13T18:19:45.894Z"
                 }
               ]
             }
